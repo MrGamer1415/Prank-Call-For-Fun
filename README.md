@@ -1,2 +1,2 @@
 # Prank-Call-For-Fun
-Scripted a Prank Call website with JavaScript. Do Visit the Live URL.
+Scripted a Prank Call Website using Javascript, all source code with videos and sound effects are provided above. Do Visit the Live URL of the site.
